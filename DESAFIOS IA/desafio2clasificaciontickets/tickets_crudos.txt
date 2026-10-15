@@ -1,0 +1,27 @@
+=== EXPORTACIÓN DE TICKETS (texto sin procesar) ===
+
+[2026-10-01 08:55] TICKET #1001 | usuario: mlopez | mensaje: No puedo entrar a mi correo, dice contraseña incorrecta y ya la cambié dos veces
+[2026-10-01 09:12] TICKET #1002 | usuario: jperez | mensaje: La impresora del piso 2 no imprime, se queda en cola
+[2026-10-01 09:40] TICKET #1003 | usuario: agarcia | mensaje: Excel se cierra solo cada vez que abro el archivo de ventas
+[2026-10-01 10:05] TICKET #1004 | usuario: rsanchez | mensaje: No tengo internet en la sala de juntas, el wifi no conecta
+[2026-10-01 10:30] TICKET #1005 | usuario: lmartinez | mensaje: Necesito acceso a la carpeta compartida de Finanzas
+[2026-10-01 11:02] TICKET #1006 | usuario: cdiaz | mensaje: Mi laptop no enciende, la luz de carga parpadea
+[2026-10-01 11:45] TICKET #1007 | usuario: fruiz | mensaje: Recibí un correo sospechoso pidiendo mis datos bancarios
+[2026-10-02 08:20] TICKET #1008 | usuario: phernandez | mensaje: La VPN se desconecta cada 10 minutos cuando trabajo desde casa
+[2026-10-02 09:00] TICKET #1009 | usuario: sgomez | mensaje: Necesito instalar Visual Studio Code en mi equipo
+[2026-10-02 09:35] TICKET #1010 | usuario: ecastro | mensaje: Mi cuenta quedó bloqueada después de varios intentos
+[2026-10-02 10:10] TICKET #1011 | usuario: ovargas | mensaje: El monitor tiene rayas verticales y parpadea
+[2026-10-02 10:50] TICKET #1012 | usuario: tmorales | mensaje: Mi antivirus detectó un archivo infectado en descargas
+[2026-10-02 11:25] TICKET #1013 | usuario: ireyes | mensaje: El sistema de nómina marca error 500 al guardar
+[2026-10-02 12:00] TICKET #1014 | usuario: gortiz | mensaje: Internet muy lento, no cargan las páginas desde la mañana
+[2026-10-03 08:40] TICKET #1015 | usuario: hmendoza | mensaje: Quiero saber cómo solicitar un mouse nuevo
+[2026-10-03 09:15] TICKET #1016 | usuario: nflores | mensaje: ¿Cuál es el horario del soporte técnico?
+[2026-10-03 09:50] TICKET #1017 | usuario: vrios | mensaje: Teclado con teclas que no responden
+[2026-10-03 10:30] TICKET #1018 | usuario: dcruz | mensaje: Perdí mi teléfono de empresa, tiene correos y contactos
+[2026-10-03 11:10] TICKET #1019 | usuario: bjimenez | mensaje: Teams no me deja iniciar sesión, aparece error de autenticación
+[2026-10-03 11:55] TICKET #1020 | usuario: kcampos | mensaje: No puedo abrir las aplicaciones de la empresa, el servidor no responde
+[2026-10-04 08:30] TICKET #1021 | usuario: prueba1 | mensaje: Mi laptop se calienta mucho y de repente aparece una ventana pidiendo que pague para desbloquear mis archivos
+[2026-10-04 09:00] TICKET #1022 | usuario: prueba2 | mensaje: No puedo imprimir porque la impresora pide credenciales y mi usuario ya no funciona
+[2026-10-04 09:30] TICKET #1023 | usuario: prueba3 | mensaje: ¿Me pueden decir si el wifi de invitados también pasa por la VPN?
+[2026-10-04 10:00] TICKET #1024 | usuario: prueba4 | mensaje: Hola, buenas tardes
+--- fin de exportación ---

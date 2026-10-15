@@ -1,0 +1,29 @@
+Eres un analista de soporte de TI. Clasifica cada ticket en una sola categoría: Hardware, Software, Red, Acceso/Cuentas, Seguridad o Consulta general.
+Responde solo con una tabla de dos columnas: ID | Tipo de incidencia.
+Si un ticket es ambiguo, elige la categoría más probable.
+
+Tickets:
+1001 | No puedo entrar a mi correo, dice contraseña incorrecta y ya la cambié dos veces
+1002 | La impresora del piso 2 no imprime, se queda en cola
+1003 | Excel se cierra solo cada vez que abro el archivo de ventas
+1004 | No tengo internet en la sala de juntas, el wifi no conecta
+1005 | Necesito acceso a la carpeta compartida de Finanzas
+1006 | Mi laptop no enciende, la luz de carga parpadea
+1007 | Recibí un correo sospechoso pidiendo mis datos bancarios
+1008 | La VPN se desconecta cada 10 minutos cuando trabajo desde casa
+1009 | Necesito instalar Visual Studio Code en mi equipo
+1010 | Mi cuenta quedó bloqueada después de varios intentos
+1011 | El monitor tiene rayas verticales y parpadea
+1012 | Mi antivirus detectó un archivo infectado en descargas
+1013 | El sistema de nómina marca error 500 al guardar
+1014 | Internet muy lento, no cargan las páginas desde la mañana
+1015 | Quiero saber cómo solicitar un mouse nuevo
+1016 | ¿Cuál es el horario del soporte técnico?
+1017 | Teclado con teclas que no responden
+1018 | Perdí mi teléfono de empresa, tiene correos y contactos
+1019 | Teams no me deja iniciar sesión, aparece error de autenticación
+1020 | No puedo abrir las aplicaciones de la empresa, el servidor no responde
+1021 | Mi laptop se calienta mucho y de repente aparece una ventana pidiendo que pague para desbloquear mis archivos
+1022 | No puedo imprimir porque la impresora pide credenciales y mi usuario ya no funciona
+1023 | ¿Me pueden decir si el wifi de invitados también pasa por la VPN?
+1024 | Hola, buenas tardes

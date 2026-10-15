@@ -1,0 +1,26 @@
+| ID | Tipo de incidencia |
+| --- | --- |
+| 1001 | Acceso/Cuentas |
+| 1002 | Hardware |
+| 1003 | Software |
+| 1004 | Red |
+| 1005 | Acceso/Cuentas |
+| 1006 | Hardware |
+| 1007 | Seguridad |
+| 1008 | Red |
+| 1009 | Software |
+| 1010 | Acceso/Cuentas |
+| 1011 | Hardware |
+| 1012 | Seguridad |
+| 1013 | Software |
+| 1014 | Red |
+| 1015 | Consulta general |
+| 1016 | Consulta general |
+| 1017 | Hardware |
+| 1018 | Seguridad |
+| 1019 | Acceso/Cuentas |
+| 1020 | Red |
+| 1021 | Seguridad |
+| 1022 | Acceso/Cuentas |
+| 1023 | Consulta general |
+| 1024 | Consulta general |
